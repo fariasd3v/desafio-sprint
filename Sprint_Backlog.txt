@@ -1,0 +1,5 @@
+História 1 (ID 1): Alteração no arquivo index.html — Esforço Estimado: 4 minutos.
+Descrição: Alteração nas cores dos campos Ranger,Territory,Bronco e Mustang. 
+História 3(ID 3): Alteração no arquivo contato.html — Esforço Estimado: 3 minutos. 
+Descrição: Alteração nos textos e nos links de referência da seção contato. 
+
